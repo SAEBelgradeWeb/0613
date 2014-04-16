@@ -1,0 +1,15 @@
+.dan {
+	background-color: yellow;
+}
+
+.noc {
+	background-color: navy;
+}	
+
+.noc a {
+	color: white;
+}
+
+.dan a {
+	color: black;
+}
